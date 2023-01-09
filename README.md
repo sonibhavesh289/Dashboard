@@ -1,5 +1,5 @@
 # Dashboard
-This is simple dashboard, Which is having below fetures.
+This is simple dashboard, Which is having below features.
 - SignUp
 - Login
 - Add Products
